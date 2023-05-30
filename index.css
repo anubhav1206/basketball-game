@@ -6,14 +6,14 @@
 }
 
 body {
-    color: aliceblue;
+    color: #F3BCC8;
     margin: 0;
     padding: 0;
 }
 
 .container {
     max-width: 500px;
-    background-color: #1B244A;
+    background-color: #E893CF;
     display: flex;
     justify-content: space-around;
     padding: 2em 0;
@@ -36,7 +36,7 @@ p{
 }
 
 button{
-    background-color: #1B244A;
+    background-color: #FDCEDF;
     color: wheat;
     border: 1px solid #fff;
     font-family: 'Cursed Timer Ulil', sans-serif;
