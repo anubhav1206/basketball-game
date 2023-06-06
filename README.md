@@ -1,3 +1,2 @@
 ## Basketball Game
-
-A simple frontend project that has 2 users - home and guests with their point displayed over the black background and 3 buttons below to increment the score by 1, 2 and 3 points respectively - in accordance to the button pressed. This project uses HTML, CSS and javascript.
+A straightforward frontend project featuring a black background with two users, "home" and "guests," along with their respective points displayed. Below them, there are three buttons to increment the score by 1, 2, or 3 points, corresponding to the button pressed. This project utilizes HTML, CSS, and JavaScript to provide an interactive interface where users can easily track and update their scores. The minimalist design ensures focus on the essential elements, enhancing user experience while maintaining simplicity.
